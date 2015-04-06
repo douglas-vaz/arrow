@@ -13,7 +13,7 @@ from dateutil.relativedelta import relativedelta
 import calendar
 import sys
 
-from arrow import util, locales, parser, formatter
+import util, locales, parser, formatter
 
 
 class Arrow(object):
